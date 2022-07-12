@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.round {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-image: linear-gradient(to right, rgb(21, 255, 0), blue);
+}/*# sourceMappingURL=main.css.map */
